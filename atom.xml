@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://inktellsmore.github.io</id>
+    <id>https://inktellsmore/inktellsmore.github.io.git</id>
     <title>Gridea</title>
-    <updated>2022-01-29T08:39:27.821Z</updated>
+    <updated>2022-01-29T08:41:47.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://inktellsmore.github.io"/>
-    <link rel="self" href="https://inktellsmore.github.io/atom.xml"/>
+    <link rel="alternate" href="https://inktellsmore/inktellsmore.github.io.git"/>
+    <link rel="self" href="https://inktellsmore/inktellsmore.github.io.git/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://inktellsmore.github.io/images/avatar.png</logo>
-    <icon>https://inktellsmore.github.io/favicon.ico</icon>
+    <logo>https://inktellsmore/inktellsmore.github.io.git/images/avatar.png</logo>
+    <icon>https://inktellsmore/inktellsmore.github.io.git/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://inktellsmore.github.io/post/hello-gridea/</id>
-        <link href="https://inktellsmore.github.io/post/hello-gridea/">
+        <id>https://inktellsmore/inktellsmore.github.io.git/post/hello-gridea/</id>
+        <link href="https://inktellsmore/inktellsmore.github.io.git/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
